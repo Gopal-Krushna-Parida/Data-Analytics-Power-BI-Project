@@ -604,7 +604,9 @@ Profit % = DIVIDE( [Total Profit], [Total Sales], 0 )
 - After creating the measure:
 Measure Tools → Format → Percentage
 1.	Add a Card. 
-2.	Drag Measured Profit % into the card. 
+2.	Drag Measured Profit % into the card.
+## Final dashboard :
+![Financial Sales Dashboard](Financial%20Sales%20Dashboard.png)
 
 # Task 6: Interactive Dashboard & Filters
 
