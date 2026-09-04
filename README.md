@@ -434,6 +434,10 @@ Patient_Registry[Patient_Code]
 ## Purpose:
 One patient can visit the hospital multiple times, creating multiple records in the Visits Fact table.
 Relationship Type: Many-to-One (*:1)
+## Before doing Data Modeling the Model view showing:
+![Before Data Modeling](Before%20Data%20Modeling.png)
+## After doing Data Modeling the Model view showing :
+![After Data Modeling](After%20Data%20Modeling.png)
 
 # Task 4: DAX Calculated Columns & Measures
 
@@ -493,6 +497,8 @@ To display the results:
 1.	Go to Report View. 
 2.	Select the Card visual. 
 3.	Drag the measure into the card.
+## Output :
+![Measured Cards](Measured%20Cards.png)
 
 # Task 5: Power BI Visualizations
 ## Objective
@@ -798,7 +804,8 @@ This chart displays the five movies with the highest number of reviews.
 ### Purpose:
 -	Identify the most reviewed movies. 
 -	Analyze audience engagement and popularity.
-
+## Final dashboard image 
+![Amazon Prime Sales Dashboard](Amazon%20Prime%20Sales%20Dashboard.png)
 
 # Task 7: Business Insights & Recommendations
 
